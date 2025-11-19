@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(del \"C:\\Users\\tiago\\Desktop\\design-patterns\\single-responsibility-principle.js\" \"C:\\Users\\tiago\\Desktop\\design-patterns\\dependency-inversion-principle.js\")"
-    ],
-    "deny": [],
-    "ask": []
-  }
-}
